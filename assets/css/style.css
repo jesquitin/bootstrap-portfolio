@@ -32,9 +32,13 @@ nav {
 h2 {
     color:teal;
     font-family:Georgia, Times, "Times New Roman", serif;
-    border-bottom: 3px solid #ddd;
+    border-bottom: 3px solid #666;
     margin-top:25px;
     margin-left:35px;
+}
+
+img {
+    margin-left:-48px;
 }
 
 
