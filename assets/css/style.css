@@ -13,7 +13,7 @@ body {
 
 .wrapper {
     max-width:960px;
-    margin-left:291px;
+    margin-left:391px;
     margin-top:51px;
     background-color:#e2dcdc;
     border: 2px solid lightgray;
@@ -90,5 +90,18 @@ footer {
 #contact-body h2 {
     margin-left:149px;
     margin-top:65px;
+}
+
+/*****************************Media********************************/
+
+
+@media screen and (max-width: 1376px) {
+    .wrapper {margin-left:200;
+}
+}
+
+@media screen and (max-width: 680px) {
+    .wrapper {margin-left:0;
+}
 }
 
