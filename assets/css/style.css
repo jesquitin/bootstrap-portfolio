@@ -18,6 +18,7 @@ body {
   /* add space for fixed nav */
   main {
     margin: 80px 0;
+    
   }
   
   /* create styles for use for all white main boxes */
@@ -26,6 +27,8 @@ body {
   
     padding: 30px;
     margin-bottom: 30px;
+    width:960px;
+    height:480px;
   }
   
   .block-header {
@@ -43,9 +46,11 @@ body {
     font-size: 24px;
     font-weight: bold;
     color: #fff;
+    
   
     /* Visual */
     background: #4aaaa5;
+    padding: 25px;
   }
   
   /* override bootstrap hover color and border */
